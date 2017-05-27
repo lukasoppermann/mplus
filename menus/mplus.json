@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run Mplus script",
+        "command": "mplus:run"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Mplus",
+          "submenu": [
+            {
+              "label": "Run script",
+              "command": "mplus:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

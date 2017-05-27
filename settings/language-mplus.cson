@@ -1,0 +1,7 @@
+"*":
+  core:
+    customFileTypes:
+      "source.mplus": [
+         "inp",
+         "out"
+      ]

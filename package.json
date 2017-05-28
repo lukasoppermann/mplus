@@ -2,12 +2,12 @@
   "name": "mplus",
   "main": "./lib/mplus",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A simple package for mplus.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "mplus:run"
   },
-  "repository": "https://github.com/atom/mplus",
+  "repository": "https://github.com/lukasoppermann/mplus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

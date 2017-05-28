@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-text-editor": {
     "alt-m": "mplus:run"
   }
 }
